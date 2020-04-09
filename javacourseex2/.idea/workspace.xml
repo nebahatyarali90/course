@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb970f9-d4f7-448b-a37e-9a1fcd80c38c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZM4gtZfSesmjyAO30WfzT1Wt8E" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.day33">
+    <configuration name="day3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3" />
+      <module name="javacourseex2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32" />
+      <module name="javacourseex2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33" />
+      <module name="javacourseex2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.day33" />
+        <item itemvalue="Application.day32" />
+        <item itemvalue="Application.day3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb970f9-d4f7-448b-a37e-9a1fcd80c38c" name="Default Changelist" comment="" />
+      <created>1584635744350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584635744350</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="63" key="FileChooserDialogImpl" timestamp="1584641760637">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="295" y="63" key="FileChooserDialogImpl/0.0.1128.722@0.0.1128.722" timestamp="1584641760637" />
+    <state width="1060" height="163" key="GridCell.Tab.0.bottom" timestamp="1584649370335">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="163" key="GridCell.Tab.0.bottom/0.0.1128.722@0.0.1128.722" timestamp="1584649370335" />
+    <state width="1060" height="163" key="GridCell.Tab.0.center" timestamp="1584649370335">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="163" key="GridCell.Tab.0.center/0.0.1128.722@0.0.1128.722" timestamp="1584649370335" />
+    <state width="1060" height="163" key="GridCell.Tab.0.left" timestamp="1584649370335">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="163" key="GridCell.Tab.0.left/0.0.1128.722@0.0.1128.722" timestamp="1584649370335" />
+    <state width="1060" height="163" key="GridCell.Tab.0.right" timestamp="1584649370335">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="163" key="GridCell.Tab.0.right/0.0.1128.722@0.0.1128.722" timestamp="1584649370335" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1584636462116">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1128.722@0.0.1128.722" timestamp="1584636462116" />
+  </component>
+</project>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb890902-1ff3-437c-9aa5-e37028be5149" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaCourse6" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZSP5IQvrlKCgRziljAov02iJQq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.task5">
+    <configuration name="tas3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16.tas3" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.task2" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16.task2" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16.task4" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16.task5" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.tas3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb890902-1ff3-437c-9aa5-e37028be5149" name="Default Changelist" comment="" />
+      <created>1584829336896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584829336896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="58" y="0" key="#Project_Structure" timestamp="1584829344651">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="58" y="0" key="#Project_Structure/0.0.1128.722@0.0.1128.722" timestamp="1584829344651" />
+    <state x="279" y="214" width="569" height="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586293173015">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="279" y="214" width="569" height="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1128.722@0.0.1128.722" timestamp="1586293173015" />
+    <state width="1048" height="180" key="GridCell.Tab.-1.bottom" timestamp="1586216452028">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.-1.bottom/0.0.1128.722@0.0.1128.722" timestamp="1586216452028" />
+    <state width="1048" height="180" key="GridCell.Tab.-1.center" timestamp="1586216452028">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.-1.center/0.0.1128.722@0.0.1128.722" timestamp="1586216452028" />
+    <state width="1048" height="180" key="GridCell.Tab.-1.left" timestamp="1586216452028">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.-1.left/0.0.1128.722@0.0.1128.722" timestamp="1586216452028" />
+    <state width="1048" height="180" key="GridCell.Tab.-1.right" timestamp="1586216452028">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.-1.right/0.0.1128.722@0.0.1128.722" timestamp="1586216452028" />
+    <state width="1066" height="291" key="GridCell.Tab.0.bottom" timestamp="1586310854807">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1066" height="291" key="GridCell.Tab.0.bottom/0.0.1128.722@0.0.1128.722" timestamp="1586310854807" />
+    <state width="1066" height="291" key="GridCell.Tab.0.center" timestamp="1586310854806">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1066" height="291" key="GridCell.Tab.0.center/0.0.1128.722@0.0.1128.722" timestamp="1586310854806" />
+    <state width="1066" height="291" key="GridCell.Tab.0.left" timestamp="1586310854806">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1066" height="291" key="GridCell.Tab.0.left/0.0.1128.722@0.0.1128.722" timestamp="1586310854806" />
+    <state width="1066" height="291" key="GridCell.Tab.0.right" timestamp="1586310854807">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1066" height="291" key="GridCell.Tab.0.right/0.0.1128.722@0.0.1128.722" timestamp="1586310854807" />
+    <state width="1048" height="180" key="GridCell.Tab.1.bottom" timestamp="1586224231913">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.1.bottom/0.0.1128.722@0.0.1128.722" timestamp="1586224231913" />
+    <state width="1048" height="180" key="GridCell.Tab.1.center" timestamp="1586224231897">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.1.center/0.0.1128.722@0.0.1128.722" timestamp="1586224231897" />
+    <state width="1048" height="180" key="GridCell.Tab.1.left" timestamp="1586224231897">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.1.left/0.0.1128.722@0.0.1128.722" timestamp="1586224231897" />
+    <state width="1048" height="180" key="GridCell.Tab.1.right" timestamp="1586224231913">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1048" height="180" key="GridCell.Tab.1.right/0.0.1128.722@0.0.1128.722" timestamp="1586224231913" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1586303703222">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1128.722@0.0.1128.722" timestamp="1586303703222" />
+    <state x="0" y="0" key="new project wizard" timestamp="1586300890632">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1128.722@0.0.1128.722" timestamp="1586300890632" />
+    <state x="59" y="0" width="1009" height="1470" key="search.everywhere.popup" timestamp="1585264420345">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="59" y="0" width="1009" height="1470" key="search.everywhere.popup/0.0.1128.722@0.0.1128.722" timestamp="1585264420345" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day6/task3.java</url>
+          <line>5</line>
+          <properties class="Day6.task3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StringStartWith.java</url>
+          <line>5</line>
+          <properties class="StringStartWith" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task2.java</url>
+          <line>1</line>
+          <properties class="Task2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day2/JavaPrint.java</url>
+          <line>3</line>
+          <properties class="Day2.JavaPrint" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day2/JavaVariable.java</url>
+          <line>3</line>
+          <properties class="Day2.JavaVariable" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day14/task3.java</url>
+          <line>3</line>
+          <properties class="day14.task3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day14/FoeLoopex2.java</url>
+          <line>3</line>
+          <properties class="day14.FoeLoopex2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day15/debugEx2.java</url>
+          <line>3</line>
+          <properties class="day15.debugEx2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day16/JavaArray.java</url>
+          <line>3</line>
+          <properties class="Day16.JavaArray" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day16/tas3.java</url>
+          <line>6</line>
+          <properties class="Day16.tas3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Day16/task4.java</url>
+          <line>3</line>
+          <properties class="Day16.task4" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day6/Task1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringStartWith.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day8/task6.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day15/debugEx2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day15/debugEx2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day15/debugEx2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day16/JavaArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaCourse6$debugEx1.ic" NAME="debugEx1 Coverage Results" MODIFIED="1586215126965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day15.*</FILTER>
+    </SUITE>
+  </component>
+</project>

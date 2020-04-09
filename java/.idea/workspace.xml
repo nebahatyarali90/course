@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4116aaa-7533-4ef8-939e-2caa3b7de4cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMsy1VsMtroTeVPmy0JspvKCIb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4116aaa-7533-4ef8-939e-2caa3b7de4cd" name="Default Changelist" comment="" />
+      <created>1584660547074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584660547074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="298" y="157" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584660699404">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="298" y="157" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1128.722@0.0.1128.722" timestamp="1584660699404" />
+    <state x="0" y="0" key="new project wizard" timestamp="1584667916670">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1128.722@0.0.1128.722" timestamp="1584667916670" />
+    <state x="143" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584667782079">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="143" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1128.722@0.0.1128.722" timestamp="1584667782079" />
+  </component>
+</project>

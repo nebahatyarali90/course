@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ce07c0b-b379-4497-a2a4-bf541495327e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZPfN4RxDuQunc5redRaaqrerin" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Scanner">
+    <configuration name="Example2String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.Example2String" />
+      <module name="JavaCourse5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcampleJavaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.ExcampleJavaString" />
+      <module name="JavaCourse5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Scanner" />
+      <module name="JavaCourse5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TASK4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.TASK4" />
+      <module name="JavaCourse5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.task5" />
+      <module name="JavaCourse5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Scanner" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.Example2String" />
+        <item itemvalue="Application.ExcampleJavaString" />
+        <item itemvalue="Application.TASK4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ce07c0b-b379-4497-a2a4-bf541495327e" name="Default Changelist" comment="" />
+      <created>1584745606253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584745606253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="236" width="459" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584799356627">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="334" y="236" width="459" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1128.722@0.0.1128.722" timestamp="1584799356627" />
+    <state width="1060" height="161" key="GridCell.Tab.0.bottom" timestamp="1584755444026">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="161" key="GridCell.Tab.0.bottom/0.0.1128.722@0.0.1128.722" timestamp="1584755444026" />
+    <state width="1060" height="161" key="GridCell.Tab.0.center" timestamp="1584755444026">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="161" key="GridCell.Tab.0.center/0.0.1128.722@0.0.1128.722" timestamp="1584755444026" />
+    <state width="1060" height="161" key="GridCell.Tab.0.left" timestamp="1584755444026">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="161" key="GridCell.Tab.0.left/0.0.1128.722@0.0.1128.722" timestamp="1584755444026" />
+    <state width="1060" height="161" key="GridCell.Tab.0.right" timestamp="1584755444026">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state width="1060" height="161" key="GridCell.Tab.0.right/0.0.1128.722@0.0.1128.722" timestamp="1584755444026" />
+    <state x="0" y="0" key="new project wizard" timestamp="1584801622554">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1128.722@0.0.1128.722" timestamp="1584801622554" />
+    <state x="143" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584749866227">
+      <screen x="0" y="0" width="1128" height="722" />
+    </state>
+    <state x="143" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1128.722@0.0.1128.722" timestamp="1584749866227" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day4/task1.java</url>
+          <line>4</line>
+          <properties class="day4.task1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day4/ExcampleJavaString.java</url>
+          <line>10</line>
+          <properties class="day4.ExcampleJavaString" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day4/task2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day4/JavaString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
